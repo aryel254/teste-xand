@@ -1,0 +1,10 @@
+h1 {
+    color: purple;
+    background-color: bisque;
+    text-align: center;
+}
+
+p {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
